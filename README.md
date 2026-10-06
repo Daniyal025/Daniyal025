@@ -22,7 +22,7 @@ I build **agentic AI systems, RAG pipelines, backend services, data-driven appli
 - 🎓 **B.S. Computer Science**, NED University of Engineering & Technology — **CGPA 3.78 / 4.00**.
 - 🏆 Ranked **41st nationwide** in HEC Pakistan's National Skills Competency Test.
 - 📍 Karachi, Pakistan.
-- 🌐 Portfolio: **syed-daniyal-ali-portfolio.vercel.app**
+- 🌐 Portfolio: [syed-daniyal-ali-portfolio](https://syed-daniyal-ali-portfolio.vercel.app/)
 
 ---
 
